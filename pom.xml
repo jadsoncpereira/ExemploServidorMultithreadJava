@@ -7,6 +7,10 @@
   <version>1.0-SNAPSHOT</version>
   <name>ExemploServidorMultithread</name>
   <url>http://maven.apache.org</url>
+  <properties>
+    <maven.compiler.source>11</maven.compiler.source>
+    <maven.compiler.target>11</maven.compiler.target>
+  </properties>
   <build>
     <plugins>
       <plugin>
